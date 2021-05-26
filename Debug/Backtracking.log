@@ -1,7 +1,7 @@
 ﻿  Backtracking.cpp
-C:\Users\anmol\source\repos\Backtracking\Backtracking\Backtracking.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anmol\source\repos\Backtracking\Backtracking\Backtracking.cpp(7,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anmol\source\repos\Backtracking\Backtracking\Backtracking.cpp(31,39): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anmol\source\repos\Backtracking\Backtracking\Backtracking.cpp(41,10): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\anmol\source\repos\Backtracking\Backtracking\Backtracking.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(6,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(7,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(32,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(42,10): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(45,20): warning C4018: '<': signed/unsigned mismatch
   Backtracking.vcxproj -> C:\Users\anmol\source\repos\Backtracking\Debug\Backtracking.exe
