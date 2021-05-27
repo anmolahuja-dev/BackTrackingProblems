@@ -1,16 +1,17 @@
 #include<iostream>
 #include<vector>
-#include<unordered_map>
 #include<map>
+
 #include"solveNQ.h"
 #include"SumofSubsets.h"
+#include"GraphColoring.h"
 
 using namespace std;
 
-
-
 int main() {
 //	solveNQ();
-	SumofSubsets();
+//	SumofSubsets();
+	GraphColoring();
+	
 	return 0;
 }

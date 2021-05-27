@@ -4,4 +4,7 @@ C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(7,21): warning C
 C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(32,39): warning C4018: '<': signed/unsigned mismatch
 C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(42,10): warning C4018: '>=': signed/unsigned mismatch
 C:\Users\anmol\source\repos\Backtracking\Backtracking\solveNQ.h(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\GraphColoring.h(3,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\GraphColoring.h(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\Backtracking\Backtracking\GraphColoring.h(12,25): warning C4018: '<': signed/unsigned mismatch
   Backtracking.vcxproj -> C:\Users\anmol\source\repos\Backtracking\Debug\Backtracking.exe

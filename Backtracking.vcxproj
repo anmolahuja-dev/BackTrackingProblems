@@ -142,6 +142,7 @@
     <ClCompile Include="Backtracking.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GraphColoring.h" />
     <ClInclude Include="solveNQ.h" />
     <ClInclude Include="SumofSubsets.h" />
   </ItemGroup>
